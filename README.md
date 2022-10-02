@@ -17,7 +17,7 @@ Given data of 13 sensors computed annually over 10 years for sections of road. B
 4. Calculate RMSE
 
 ## 🎉 Results
-The total RMSE value of the model is 
+The total RMSE value of the model is ```37.37720719042681```
 
 ## ✨ Contributing
 Yes, please! Feel free to contribute, raise issues and recommend best practices.
