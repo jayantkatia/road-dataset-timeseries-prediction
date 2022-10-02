@@ -9,9 +9,9 @@ Given data of 13 sensors computed annually over 10 years for sections of road. B
 
 ## ✍️ Approach
 1. Preprocessing and Data Cleaning
-        1. Populate 'Section' column
-        2. Find missing year data for sections, since only 1 row was missing, duplicated data for the required year for that section
-        3. Populate ```Nan``` values
+    1. Populate 'Section' column
+    2. Find missing year data for sections, since only 1 row was missing, duplicated data for the required year for that section
+    3. Populate ```Nan``` values
 2. Compare models
 3. Analyse and find model with best square deviation (ExtraTreesRegressor, in our case)
 4. Calculate RMSE
